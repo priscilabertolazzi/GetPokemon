@@ -4,7 +4,6 @@ Este script realiza requisições na API RestFULL do Pokémon sobre o pokémon D
 Dependências:
 $ pip install requests
 $ pip install jsonpath
-$ pip install json
 '''
 
 #importando os pacotes requests, jsonpath e json
